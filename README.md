@@ -19,5 +19,8 @@ https://youtu.be/GcaH_z9nHqY
 data (need request)
 https://drive.google.com/file/d/1TSYjzUlbFxeu30MRbjqd2Ooks-KRn9Ww/view?usp=sharing
 
+public version
+https://github.com/hasilexperimen/Allez_publish
+
 
 
